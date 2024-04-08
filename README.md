@@ -1,10 +1,3 @@
-
-# 这是什么？
-
-- 仓库名：vitepress-demo-mondaylab
-
-- 用途：vitepress开箱即用demo
-
 # 如何运行？
 
 开发环境：
